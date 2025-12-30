@@ -1,0 +1,96 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
+
+Government channels (TRT - Turkish Radio and Television Corporation)
+
+#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" group-title="Genel Eğlence",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" group-title="Sanat ve Kültür",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8 
+
+#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-4k-tr.png?raw=true" group-title="Genel Eğlence",TRT 4K
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
+
+#EXTINF:-1 tvg-id="TRTHaber HD.tr" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-tr.png?raw=true" group-title="Haberler",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-tr.png?raw=true" group-title="Spor",TRT Spor - [Geo-blocked]
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-cocuk-tr.png?raw=true" group-title="Çizgi Film",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" group-title="Belgesel",TRT Belgesel - [Geo-blocked]
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld HD.tr" tvg-name="TRT World" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-world-tr.png?raw=true" group-title="Haberler",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+
+
+
+Private national channels
+
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" group-title="Genel Eğlence",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-name="A2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a2-tr.png?raw=true" group-title="Genel Eğlence",A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="KANALD.tr" tvg-name="Kanal D" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-d-tr.png?raw=true" group-title="Genel Eğlence",Kanal D
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" group-title="Genel Eğlence",NOW
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
+
+#EXTINF:-1 tvg-id="SHOW TV HD.tr"" tvg-name="Show TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" group-title="Genel Eğlence",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Show MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Genel Eğlence",Show MAX
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
+
+#EXTINF:-1 tvg-name="Star TV" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="Genel Eğlence",Star TV
+http://95.174.71.114/TR-STAR/index.m3u8
+
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-7-tr.png?raw=true" group-title="Genel Eğlence",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Genel Eğlence",Teve 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Genel Eğlence,TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1  tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Spor",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="="Genel Eğlence",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Genel Eğlence",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-name="Halk TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="Haberler",Halk TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Genel Eğlence",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 tvg-name="24 TV" tvg-id="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Haber",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="Belgesel",DMAX - [Geo-blocked]
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Belgesel",TLC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+
+
+
+
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/disney-channel-tr.png?raw=true" group-title="Çizgi Film",Disney Channel - [America]
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/nickelodeon-uk.png?raw=true" group-title="Çizgi Film",Nickelodeon - [America]
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
