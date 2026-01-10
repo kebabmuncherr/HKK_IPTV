@@ -47,7 +47,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 #EXTINF:-1 tvg-id="ShowTurk.tr"" tvg-name="Show TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-turk-tr.png?raw=true" group-title="Genel Eğlence",Show Turk
-https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1768041844&st=i0bbyATPiGLTbQeo0xd6qQ&tv=1
+https://canlitvulusal.xyz/live/showturk/index.m3u8
 
 #EXTINF:-1 tvg-name="Show MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Genel Eğlence",Show MAX
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
