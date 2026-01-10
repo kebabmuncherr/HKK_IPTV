@@ -44,7 +44,10 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
 
 #EXTINF:-1 tvg-id="SHOW TV HD.tr"" tvg-name="Show TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" group-title="Genel Eğlence",Show TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+#EXTINF:-1 tvg-id="SHOW Turk HD.tr"" tvg-name="Show TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" group-title="Genel Eğlence",Show Turk TV
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1768041844&st=i0bbyATPiGLTbQeo0xd6qQ&tv=1
 
 #EXTINF:-1 tvg-name="Show MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Genel Eğlence",Show MAX
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
@@ -59,7 +62,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Genel Eğlence,TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
 
 #EXTINF:-1  tvg-id="TV8,5 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv85-tr.png?raw=true" group-title="Spor",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
